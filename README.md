@@ -1,7 +1,7 @@
 If you mean you want the **README content as Markdown source code** so you can copy it directly into `README.md`, use this:
 
 ````
-# Employee_details
+ Employee_details
 
 A simple **Employee Management System** built using **Python** and **Object-Oriented Programming (OOP)**.
 
@@ -19,6 +19,15 @@ A simple **Employee Management System** built using **Python** and **Object-Orie
 - Method Overriding
 - `super()`
 - `issubclass()`
+
+# Classes
+
+## Employee
+
+The `Employee` class is the parent class.
+
+```python
+class Employee:
 
 # Classes
 
